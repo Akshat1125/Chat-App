@@ -1,0 +1,17 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Edu+NSW+ACT+Foundation&family=Fasthand&family=Mooli&family=Rubik:ital,wght@1,300&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+  body,button,input{
+    font-family: 'Mooli', sans-serif;}
+
+    body{
+      max-width: 100vw;
+      max-height: 100vh;
+      overflow: hidden;
+    }
